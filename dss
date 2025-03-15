@@ -1,0 +1,36 @@
+[33mcommit f43313abe7e1537dcbca2213256bd6c354bdc51a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8ff8754 266cd46
+Author: Chikaodi Nnanna <nchikaodi1@gmail.com>
+Date:   Sat Mar 15 15:00:22 2025 -0500
+
+    Merge branch 'master' of https://github.com/Chikaodi-N/first-project
+
+[33mcommit 8ff8754e90bf988bf22a32d88b18d217adf0de0f[m
+Author: Chikaodi Nnanna <nchikaodi1@gmail.com>
+Date:   Sat Mar 15 14:51:50 2025 -0500
+
+    add home.html
+
+[33mcommit 266cd46263c600bfcc69b82218d3982757a96986[m
+Author: Chikaodi-N <nchikaodi1@gmail.com>
+Date:   Sat Mar 15 14:50:11 2025 -0500
+
+    Create file.txt
+
+[33mcommit 50a050f9c34afa1cd014a0a6337294620ad54381[m
+Author: Chikaodi Nnanna <nchikaodi1@gmail.com>
+Date:   Tue Mar 11 15:13:42 2025 -0500
+
+    button click, ignore log files
+
+[33mcommit b2bb7e988e585408750125b8dcb8a94c9269a41a[m
+Author: Chikaodi Nnanna <nchikaodi1@gmail.com>
+Date:   Tue Mar 11 15:07:22 2025 -0500
+
+    added JavaScript
+
+[33mcommit 93a2765dbf6efb9c6e721a094d2932564b73c6ac[m
+Author: Chikaodi Nnanna <nchikaodi1@gmail.com>
+Date:   Tue Mar 11 15:04:02 2025 -0500
+
+    initial commit
